@@ -1,10 +1,10 @@
 {
   "name": "gura-botmd",
   "version": "1.0.0",
-  "description": "Simple whatsapp bot with multi device.",
-  "main": "main.js",
+  "description: "Simple whatsapp bot with multi device.",
+  "main": "index.js",
   "scripts": {
-    "start": "node main.js"
+    "start": "node index.js"
   },
   "author": "DANNI XD",
   "license": "ISC",
